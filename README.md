@@ -1,2 +1,1 @@
-Example for https://www.drupal.org/node/3169297
-
+Simple Drupal Module to override the styles for Claro-theme with a custom CSS-file

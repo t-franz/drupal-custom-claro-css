@@ -1,0 +1,5 @@
+claro_overrides:
+  version: 1.x
+  css:
+    theme:
+      css/claro-overrides.css: {}
