@@ -81,8 +81,7 @@
 .lp-builder .layout__region .flex {
   gap: var(--gap);
 }
-.lp-builder .field__items>.field__item {
-}
+
 .lp-builder .margin-top {
   margin-top: 40px;
 }
